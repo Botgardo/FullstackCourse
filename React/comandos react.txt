@@ -1,0 +1,5 @@
+npx create-react-app my-app #comando para crear una app con react
+npm start #comando para correr la aplicacion
+npm create vite@latest part1 -- --template react #comando para crear una app vite con react
+npm install #antes de correr la aplicación
+npm run dev # Correr la aplicacion
